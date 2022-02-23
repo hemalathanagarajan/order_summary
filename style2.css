@@ -116,7 +116,7 @@ p{
 
     @media(min-width:768px){
         .bg image{
-            background:url("./images/pattern-background-desktop.svg")no-repeat center/cover;
+            background:url("pattern-background-desktop.svg")no-repeat center/cover;
             height:500px;
             
         }
